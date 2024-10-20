@@ -1,7 +1,9 @@
-#ifdef ZIP_ENGINE_CORE_H
-#define ZIP_ENGINE_CORE_H
+#ifndef ZIP_ENGINE_H
+#define ZIP_ENGINE_H
 
 #include <string>
+#include "Compressor.h"
+#include "Decompressor.h"
 
 namespace ZipEngine {
 
@@ -14,4 +16,4 @@ public:
 
 } // namespace ZipEngine
 
-#endif
+#endif // ZIP_ENGINE_H
