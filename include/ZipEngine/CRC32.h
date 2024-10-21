@@ -5,7 +5,7 @@
  * The CRC32 class implements the 32-bit Cyclic Redundancy Check algorithm,
  * which is commonly used in data integrity verification, including in the
  * ZIP file format.
-*/
+ */
 
 #ifndef ZIP_ENGINE_CRC32_H
 #define ZIP_ENGINE_CRC32_H

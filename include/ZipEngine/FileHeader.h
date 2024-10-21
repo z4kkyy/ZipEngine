@@ -1,3 +1,11 @@
+/**
+ * @file FileHeader.h
+ * @brief Defines the FileHeader class for handling ZIP file headers.
+ *
+ * This class represents the local file header structure used in ZIP files.
+ * It provides methods for serializing and deserializing file header information.
+ */
+
 #ifndef ZIP_ENGINE_FILE_HEADER_H
 #define ZIP_ENGINE_FILE_HEADER_H
 

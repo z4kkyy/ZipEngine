@@ -5,7 +5,7 @@
  * The BitStream class allows reading and writing of data at the bit level,
  * which is crucial for various compression algorithms. It supports operations
  * such as reading/writing individual bits, multiple bits, and byte sequences.
-*/
+ */
 
 #ifndef ZIP_ENGINE_BIT_STREAM_H
 #define ZIP_ENGINE_BIT_STREAM_H

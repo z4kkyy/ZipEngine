@@ -1,3 +1,12 @@
+/**
+ * @file HuffmanCoding.h
+ * @brief Defines the HuffmanCoding class for Huffman coding compression and decompression.
+ *
+ * This class implements the Huffman coding algorithm, which is used as part of
+ * the compression process in the ZipEngine. It provides methods for compressing and
+ * decompressing data using variable-length prefix coding.
+ */
+
 #ifndef ZIP_ENGINE_HUFFMAN_CODING_H
 #define ZIP_ENGINE_HUFFMAN_CODING_H
 

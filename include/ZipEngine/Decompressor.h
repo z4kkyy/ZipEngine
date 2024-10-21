@@ -1,3 +1,11 @@
+/**
+ * @file Decompressor.h
+ * @brief Defines the Decompressor class for data decompression in the ZipEngine.
+ *
+ * This class implements the decompression algorithm used in the ZipEngine.
+ * It reverses the compression process, combining Huffman decoding and LZ77 decompression.
+ */
+
 #ifndef ZIP_ENGINE_DECOMPRESSOR_H
 #define ZIP_ENGINE_DECOMPRESSOR_H
 

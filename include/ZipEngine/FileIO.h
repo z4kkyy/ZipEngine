@@ -1,3 +1,12 @@
+/**
+ * @file FileIO.h
+ * @brief Defines the FileIO class for handling file input/output operations in the ZipEngine.
+ *
+ * This class provides utility functions for reading from and writing to files,
+ * as well as methods for reading and writing specific data types (uint8_t, uint16_t, uint32_t).
+ * It also includes exception handling for file operations.
+ */
+
 #ifndef ZIP_ENGINE_FILE_IO_H
 #define ZIP_ENGINE_FILE_IO_H
 

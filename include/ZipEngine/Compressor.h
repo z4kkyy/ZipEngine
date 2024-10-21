@@ -1,3 +1,11 @@
+/**
+ * @file Compressor.h
+ * @brief Defines the Compressor class for data compression in the ZipEngine.
+ *
+ * This class implements the compression algorithm used in the ZipEngine.
+ * It combines LZ77 and Huffman coding to achieve efficient compression.
+ */
+
 #ifndef ZIP_ENGINE_COMPRESSOR_H
 #define ZIP_ENGINE_COMPRESSOR_H
 
